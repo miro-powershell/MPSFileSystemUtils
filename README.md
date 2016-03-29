@@ -2,5 +2,5 @@
 PowerShell module with File System Utilities
 
 Contains Advanced Functions:
-    Start-MPSFileSystmeWatcher
+    Start-MPSFileSystemWatcher,
     Stop-MPSFileSystemWatcher
